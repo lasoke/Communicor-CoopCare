@@ -1,0 +1,15 @@
+{
+  "extends": "@quasar/app/tsconfig-preset",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "experimentalDecorators": true,
+    "lib": [
+      "es2019",
+      "dom"
+    ],
+    "types": [
+      "quasar",
+      "node"
+    ],
+  }
+}

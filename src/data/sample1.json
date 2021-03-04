@@ -1,0 +1,860 @@
+[
+  {
+    "masterData": {
+      "firstName": "Erika",
+      "lastName": "Bauer"
+    },
+    "problems": [
+      {
+        "id": "gdponox9uk",
+        "problem": {
+          "code": "12",
+          "scopeCode": 0,
+          "severityCode": 2,
+          "signsAndSymptomsCodes": [
+            "03",
+            "13",
+            "14",
+            "15",
+            "09",
+            "17",
+            "18",
+            "22"
+          ],
+          "details": "",
+          "isHighPriority": true,
+          "priorityDetails": ""
+        },
+        "interventions": [
+          {
+            "id": "aldf8jul3k",
+            "occurrences": [],
+            "createdAt": "2020-01-04T13:07:16.968Z",
+            "categoryCode": "01",
+            "targetCode": "28",
+            "detailsCode": "",
+            "details": "therapeutische Beziehung aufbauen"
+          },
+          {
+            "id": "11rza19qm6",
+            "occurrences": [],
+            "createdAt": "2020-01-04T13:08:37.446Z",
+            "categoryCode": "01",
+            "targetCode": "49",
+            "detailsCode": "",
+            "details": "Symptome überprüfen"
+          },
+          {
+            "id": "37c4u5qxsd",
+            "occurrences": [],
+            "createdAt": "2020-01-04T13:09:08.607Z",
+            "categoryCode": "03",
+            "targetCode": "31",
+            "detailsCode": "",
+            "details": "Termin zur Einschätzung planen"
+          },
+          {
+            "id": "hzribkws7u",
+            "recurrenceRules": {
+              "rrules": [
+                {
+                  "freq": 2,
+                  "wkst": 0,
+                  "dtstart": "2020-01-11T08:00:00.000Z",
+                  "tzid": "Europe/Berlin",
+                  "interval": 2
+                }
+              ],
+              "exrules": [],
+              "rdates": [],
+              "exdates": [],
+              "tzid": "Europe/Berlin"
+            },
+            "occurrences": [],
+            "createdAt": "2020-01-04T13:10:13.502Z",
+            "completedAt": null,
+            "categoryCode": "04",
+            "targetCode": "49",
+            "detailsCode": "",
+            "details": "Aktivität, Stimmungsschwankungen, Halluzinationen und Pflegeberichte"
+          }
+        ],
+        "_completedOccurrences": [
+          [
+            "aldf8jul3k",
+            1
+          ],
+          [
+            "11rza19qm6",
+            1
+          ],
+          [
+            "37c4u5qxsd",
+            2
+          ]
+        ],
+        "outcomes": [
+          {
+            "createdAt": "2020-01-04T13:11:49.109Z",
+            "knowledge": {
+              "observation": 2,
+              "expectation": 4,
+              "comment": "anhaltende Symptome stören Realitätswahrnehmung"
+            },
+            "behaviour": {
+              "observation": 2,
+              "expectation": 4,
+              "comment": "hört selten auf zu suchen und zu hetzen, aber isst und schäft"
+            },
+            "status": {
+              "observation": 2,
+              "expectation": 4,
+              "comment": "Unruhe, beschreibt Wahnvorstellungen und Halluzinationen"
+            },
+            "personRatedInPlaceOfOwner": ""
+          }
+        ],
+        "ratingReminder": {
+          "id": "gy6dwxeh9j",
+          "recurrenceRules": {
+            "rrules": [
+              {
+                "dtstart": "2020-01-04T07:00:00.000Z",
+                "interval": 4,
+                "freq": 2,
+                "tzid": "Europe/Berlin",
+                "wkst": 0
+              }
+            ],
+            "exrules": [],
+            "rdates": [],
+            "exdates": [
+              "2020-01-04T07:00:00.000Z"
+            ],
+            "tzid": "Europe/Berlin"
+          },
+          "occurrences": [],
+          "createdAt": "2020-01-04T13:03:35.797Z",
+          "completedAt": null
+        },
+        "_additionalRatingsKBS": [
+          [
+            3,
+            2,
+            2
+          ],
+          [
+            3,
+            3,
+            2
+          ],
+          [
+            4,
+            3,
+            3
+          ],
+          [
+            4,
+            4,
+            3
+          ]
+        ],
+        "createdAt": "2020-01-04T13:11:49.109Z",
+        "resolvedAt": null,
+        "tag": ""
+      },
+      {
+        "id": "jojvjuagk5",
+        "problem": {
+          "code": "38",
+          "scopeCode": 0,
+          "severityCode": 2,
+          "signsAndSymptomsCodes": [
+            "01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "10"
+          ],
+          "details": "",
+          "isHighPriority": true,
+          "priorityDetails": ""
+        },
+        "interventions": [
+          {
+            "id": "e58wlsh5er",
+            "occurrences": [],
+            "createdAt": "2020-01-04T13:15:43.896Z",
+            "categoryCode": "01",
+            "targetCode": "41",
+            "detailsCode": "",
+            "details": "Klärung was sie tun kann und was nicht"
+          },
+          {
+            "id": "q75b9p6zyj",
+            "occurrences": [],
+            "createdAt": "2020-01-04T13:16:10.885Z",
+            "categoryCode": "03",
+            "targetCode": "77",
+            "detailsCode": "",
+            "details": "Vermittlung von Hilfe bei Dusche, Umziehen und Wäsche"
+          },
+          {
+            "id": "hv70knq185",
+            "recurrenceRules": {
+              "rrules": [
+                {
+                  "freq": 2,
+                  "wkst": 0,
+                  "dtstart": "2020-01-11T08:00:00.000Z",
+                  "tzid": "Europe/Berlin",
+                  "interval": 2
+                }
+              ],
+              "exrules": [],
+              "rdates": [],
+              "exdates": [],
+              "tzid": "Europe/Berlin"
+            },
+            "occurrences": [],
+            "createdAt": "2020-01-04T13:16:44.484Z",
+            "completedAt": null,
+            "categoryCode": "04",
+            "targetCode": "41",
+            "detailsCode": "",
+            "details": "Sauberkeit, Angemessenheit der Hilfeleistung"
+          }
+        ],
+        "_completedOccurrences": [
+          [
+            "e58wlsh5er",
+            1
+          ]
+        ],
+        "outcomes": [
+          {
+            "createdAt": "2020-01-04T13:17:32.777Z",
+            "knowledge": {
+              "observation": 2,
+              "expectation": 3,
+              "comment": "erkennt Bedarf an Körperhygiene"
+            },
+            "behaviour": {
+              "observation": 1,
+              "expectation": 3,
+              "comment": "kann die Körperpflege nicht starten oder beenden"
+            },
+            "status": {
+              "observation": 1,
+              "expectation": 4,
+              "comment": "Körper und Kleidung unsauber"
+            },
+            "personRatedInPlaceOfOwner": ""
+          }
+        ],
+        "_additionalRatingsKBS": [
+          [
+            2,
+            1,
+            2
+          ],
+          [
+            2,
+            2,
+            2
+          ],
+          [
+            3,
+            2,
+            2
+          ],
+          [
+            3,
+            2,
+            3
+          ]
+        ],
+        "ratingReminder": {
+          "id": "7jl5u1gjab",
+          "recurrenceRules": {
+            "rrules": [
+              {
+                "dtstart": "2020-01-04T07:00:00.000Z",
+                "interval": 4,
+                "freq": 2,
+                "tzid": "Europe/Berlin",
+                "wkst": 0
+              }
+            ],
+            "exrules": [],
+            "rdates": [],
+            "exdates": [
+              "2020-01-04T07:00:00.000Z"
+            ],
+            "tzid": "Europe/Berlin"
+          },
+          "occurrences": [],
+          "createdAt": "2020-01-04T13:12:05.029Z",
+          "completedAt": null
+        },
+        "createdAt": "2020-01-04T13:17:32.777Z",
+        "resolvedAt": null,
+        "tag": ""
+      },
+      {
+        "id": "jtedcqqgq8",
+        "problem": {
+          "code": "42",
+          "scopeCode": 0,
+          "severityCode": 2,
+          "signsAndSymptomsCodes": [
+            "03",
+            "08"
+          ],
+          "details": "",
+          "isHighPriority": true,
+          "priorityDetails": ""
+        },
+        "interventions": [
+          {
+            "id": "s0zv2piykw",
+            "occurrences": [],
+            "createdAt": "2020-01-04T13:21:41.021Z",
+            "categoryCode": "01",
+            "targetCode": "32",
+            "detailsCode": "",
+            "details": "weniger Koffein trinken, weil es die Wirksamkeit psychotroper Medikamente verringert"
+          },
+          {
+            "id": "jzr6g2qby4",
+            "occurrences": [],
+            "createdAt": "2020-01-04T13:21:56.663Z",
+            "categoryCode": "01",
+            "targetCode": "33",
+            "detailsCode": "",
+            "details": "muss alle Dosen wie geplant einnehmen"
+          },
+          {
+            "id": "34lh44f2ty",
+            "occurrences": [],
+            "createdAt": "2020-01-04T13:22:23.178Z",
+            "categoryCode": "03",
+            "targetCode": "31",
+            "detailsCode": "",
+            "details": "Terminplanung zur Überprüfung von Medikamenten"
+          },
+          {
+            "id": "exspfk8ak0",
+            "occurrences": [],
+            "createdAt": "2020-01-04T13:22:35.547Z",
+            "categoryCode": "03",
+            "targetCode": "77",
+            "detailsCode": "",
+            "details": "Psychiatriefachkraft hilft Klientin"
+          },
+          {
+            "id": "u39eil3rar",
+            "recurrenceRules": {
+              "rrules": [
+                {
+                  "freq": 2,
+                  "wkst": 0,
+                  "dtstart": "2020-01-11T08:00:00.000Z",
+                  "tzid": "Europe/Berlin",
+                  "interval": 2
+                }
+              ],
+              "exrules": [],
+              "rdates": [],
+              "exdates": [],
+              "tzid": "Europe/Berlin"
+            },
+            "occurrences": [],
+            "createdAt": "2020-01-04T13:23:27.284Z",
+            "completedAt": null,
+            "categoryCode": "04",
+            "targetCode": "33",
+            "detailsCode": "",
+            "details": "Berichte von Klientin, Psychiater und Verwaltung"
+          }
+        ],
+        "_completedOccurrences": [
+          [
+            "s0zv2piykw",
+            1
+          ],
+          [
+            "jzr6g2qby4",
+            1
+          ],
+          [
+            "34lh44f2ty",
+            2
+          ],
+          [
+            "exspfk8ak0",
+            2
+          ]
+        ],
+        "outcomes": [
+          {
+            "createdAt": "2020-01-04T13:25:22.022Z",
+            "knowledge": {
+              "observation": 3,
+              "expectation": 4,
+              "comment": "weiß Namen von Medikamenten und dass sie genommen werden müssen"
+            },
+            "behaviour": {
+              "observation": 2,
+              "expectation": 4,
+              "comment": "hat einige Medikamente ausgelassen; benötigt eine konsistente Verabreichung"
+            },
+            "status": {
+              "observation": 2,
+              "expectation": 3,
+              "comment": "Symptome einer psychischen Erkrankung offensichtlich"
+            },
+            "personRatedInPlaceOfOwner": ""
+          }
+        ],
+        "_additionalRatingsKBS": [
+          [
+            3,
+            2,
+            2
+          ],
+          [
+            4,
+            3,
+            2,
+            "versteht die Benutzung des Medikamentenorganisators"
+          ],
+          [
+            4,
+            2,
+            2
+          ],
+          [
+            4,
+            3,
+            2
+          ]
+        ],
+        "ratingReminder": {
+          "id": "hghf705pkm",
+          "recurrenceRules": {
+            "rrules": [
+              {
+                "dtstart": "2020-01-04T07:00:00.000Z",
+                "interval": 4,
+                "freq": 2,
+                "tzid": "Europe/Berlin",
+                "wkst": 0
+              }
+            ],
+            "exrules": [],
+            "rdates": [],
+            "exdates": [
+              "2020-01-04T07:00:00.000Z"
+            ],
+            "tzid": "Europe/Berlin"
+          },
+          "occurrences": [],
+          "createdAt": "2020-01-04T13:19:22.135Z",
+          "completedAt": null
+        },
+        "createdAt": "2020-01-04T13:25:22.022Z",
+        "resolvedAt": null,
+        "tag": ""
+      }
+    ],
+    "createdAt": "2020-01-04T13:03:24.425Z",
+    "leftAt": null
+  },
+  {
+    "masterData": {
+      "firstName": "Frida",
+      "lastName": "Richter"
+    },
+    "problems": [
+      {
+        "id": "gotzinopsb",
+        "problem": {
+          "code": "07",
+          "scopeCode": 0,
+          "severityCode": 1,
+          "signsAndSymptomsCodes": [],
+          "details": "Lebt allein und ist im Seniorenalter, gibt aber an, dass ihr Unterstützungssystem angemessen ist.",
+          "isHighPriority": false,
+          "priorityDetails": "Interventionen anbieten und bewerten, wenn sie nicht in der Lage ist, Medikamente regelmäßig einzunehmen und mehr Unterstützung benötigt."
+        },
+        "interventions": [],
+        "outcomes": [],
+        "ratingReminder": {
+          "id": "iy7k0mgkap",
+          "recurrenceRules": {
+            "rrules": [
+              {
+                "dtstart": "2020-01-04T07:00:00.000Z",
+                "interval": 4,
+                "freq": 2,
+                "tzid": "Europe/Berlin",
+                "wkst": 0
+              }
+            ],
+            "exrules": [],
+            "rdates": [],
+            "exdates": [
+              "2020-01-04T07:00:00.000Z"
+            ],
+            "tzid": "Europe/Berlin"
+          },
+          "occurrences": [],
+          "createdAt": "2020-01-04T13:30:28.265Z",
+          "completedAt": null
+        },
+        "createdAt": "2020-01-04T13:32:21.000Z",
+        "resolvedAt": null,
+        "tag": ""
+      },
+      {
+        "id": "n9bxmus57p",
+        "problem": {
+          "code": "23",
+          "scopeCode": 0,
+          "severityCode": 1,
+          "signsAndSymptomsCodes": [],
+          "details": "Urteilsvermögen und Gedächtnis scheinen ausreichend, abgesehen von einigen Problemen bei der planmäßigen Einnahme von Medikamenten. Bei Bedarf mit den Töchtern Kontakt aufnehmen.",
+          "isHighPriority": false,
+          "priorityDetails": "Interventionen anbieten und bewerten, wenn Gedächtnisprobleme bei zukünftigen Besuchen signifikant werden."
+        },
+        "interventions": [],
+        "outcomes": [],
+        "ratingReminder": {
+          "id": "0v5g63phv9",
+          "recurrenceRules": {
+            "rrules": [
+              {
+                "dtstart": "2020-01-04T07:00:00.000Z",
+                "interval": 4,
+                "freq": 2,
+                "tzid": "Europe/Berlin",
+                "wkst": 0
+              }
+            ],
+            "exrules": [],
+            "rdates": [],
+            "exdates": [
+              "2020-01-04T07:00:00.000Z"
+            ],
+            "tzid": "Europe/Berlin"
+          },
+          "occurrences": [],
+          "createdAt": "2020-01-04T13:32:22.889Z",
+          "completedAt": null
+        },
+        "createdAt": "2020-01-04T13:33:56.199Z",
+        "resolvedAt": null,
+        "tag": ""
+      },
+      {
+        "id": "fald8u15rg",
+        "problem": {
+          "code": "29",
+          "scopeCode": 0,
+          "severityCode": 2,
+          "signsAndSymptomsCodes": [
+            "01",
+            "08",
+            "10",
+            "11",
+            "17"
+          ],
+          "details": "",
+          "isHighPriority": true,
+          "priorityDetails": ""
+        },
+        "interventions": [
+          {
+            "id": "us5noyybrm",
+            "occurrences": [],
+            "createdAt": "2020-01-04T13:40:56.920Z",
+            "categoryCode": "01",
+            "targetCode": "07",
+            "detailsCode": "",
+            "details": "Linderung von Ödemen, Erhöhung der Beine, Anstrengung reduzieren, Verbesserung des Schlafes, Planung der Flüssigkeitsaufnahme"
+          },
+          {
+            "id": "ry2i92jbph",
+            "occurrences": [],
+            "createdAt": "2020-01-04T13:41:18.495Z",
+            "categoryCode": "01",
+            "targetCode": "67",
+            "detailsCode": "",
+            "details": "eisenreiche Lebensmittel"
+          },
+          {
+            "id": "tg247nhgg8",
+            "occurrences": [],
+            "createdAt": "2020-01-04T13:41:43.091Z",
+            "categoryCode": "01",
+            "targetCode": "50",
+            "detailsCode": "",
+            "details": "täglich Körpergewicht messen, Symptomprotokoll, wann die Dienstleister zu benachrichtigen sind"
+          },
+          {
+            "id": "l67xjjywc1",
+            "occurrences": [],
+            "createdAt": "2020-01-04T13:42:12.778Z",
+            "categoryCode": "03",
+            "targetCode": "67",
+            "detailsCode": "",
+            "details": "Essen auf Rädern"
+          },
+          {
+            "id": "nxx2i6pt9x",
+            "recurrenceRules": {
+              "rrules": [
+                {
+                  "freq": 2,
+                  "dtstart": "2020-01-11T08:00:00.000Z",
+                  "until": null,
+                  "count": null,
+                  "wkst": 0,
+                  "tzid": "Europe/Berlin"
+                }
+              ],
+              "exrules": [],
+              "rdates": [],
+              "exdates": [],
+              "tzid": "Europe/Berlin"
+            },
+            "occurrences": [],
+            "createdAt": "2020-01-04T13:42:49.424Z",
+            "completedAt": null,
+            "categoryCode": "04",
+            "targetCode": "50",
+            "detailsCode": "",
+            "details": "Vitalwerte, Veränderungen in Schweregrad und Status"
+          }
+        ],
+        "_completedOccurrences": [
+          [
+            "us5noyybrm",
+            1
+          ],
+          [
+            "ry2i92jbph",
+            1
+          ],
+          [
+            "tg247nhgg8",
+            1
+          ]
+        ],
+        "outcomes": [
+          {
+            "createdAt": "2020-01-04T13:43:48.673Z",
+            "knowledge": {
+              "observation": 2,
+              "expectation": 4,
+              "comment": "hat eine Verschlechterung des Zustands nicht erkannt"
+            },
+            "behaviour": {
+              "observation": 2,
+              "expectation": 4,
+              "comment": "misst weder ihr Körpergewicht, noch legt sie die Beine hoch oder meldet Symptome"
+            },
+            "status": {
+              "observation": 2,
+              "expectation": 3,
+              "comment": "signifikante Müdigkeit, Ödeme in den unteren Extremitäten, erhöhte Herzfrequenz, Dyspnoe"
+            },
+            "personRatedInPlaceOfOwner": ""
+          }
+        ],
+        "_additionalRatingsKBS": [
+          [
+            2,
+            2,
+            2
+          ],
+          [
+            3,
+            2,
+            2
+          ],
+          [
+            3,
+            3,
+            2
+          ]
+        ],
+        "ratingReminder": {
+          "id": "0oitl0o4vx",
+          "recurrenceRules": {
+            "rrules": [
+              {
+                "dtstart": "2020-01-04T07:00:00.000Z",
+                "interval": 4,
+                "freq": 2,
+                "tzid": "Europe/Berlin",
+                "wkst": 0
+              }
+            ],
+            "exrules": [],
+            "rdates": [],
+            "exdates": [
+              "2020-01-04T07:00:00.000Z"
+            ],
+            "tzid": "Europe/Berlin"
+          },
+          "occurrences": [],
+          "createdAt": "2020-01-04T13:33:58.994Z",
+          "completedAt": null
+        },
+        "createdAt": "2020-01-04T13:43:48.673Z",
+        "resolvedAt": null,
+        "tag": ""
+      },
+      {
+        "id": "og9q3zmj7u",
+        "problem": {
+          "code": "42",
+          "scopeCode": 0,
+          "severityCode": 2,
+          "signsAndSymptomsCodes": [
+            "01",
+            "03"
+          ],
+          "details": "",
+          "isHighPriority": true,
+          "priorityDetails": ""
+        },
+        "interventions": [
+          {
+            "id": "werxjw687z",
+            "occurrences": [],
+            "createdAt": "2020-01-04T13:45:58.223Z",
+            "categoryCode": "01",
+            "targetCode": "32",
+            "detailsCode": "",
+            "details": "Zweck der Einnahme, was ist zu erwarten oder zu berichten"
+          },
+          {
+            "id": "u8uja28gs3",
+            "occurrences": [],
+            "createdAt": "2020-01-04T13:46:59.441Z",
+            "categoryCode": "01",
+            "targetCode": "34",
+            "detailsCode": "",
+            "details": "Benutzung, Vorteile und Möglichkeiten eines Tablettenorganisators"
+          },
+          {
+            "id": "zaygiz87k9",
+            "recurrenceRules": {
+              "rrules": [
+                {
+                  "freq": 2,
+                  "dtstart": "2020-01-11T08:00:00.000Z",
+                  "until": null,
+                  "count": null,
+                  "wkst": 0,
+                  "tzid": "Europe/Berlin"
+                }
+              ],
+              "exrules": [],
+              "rdates": [],
+              "exdates": [],
+              "tzid": "Europe/Berlin"
+            },
+            "occurrences": [],
+            "createdAt": "2020-01-04T13:47:23.697Z",
+            "completedAt": null,
+            "categoryCode": "04",
+            "targetCode": "32",
+            "detailsCode": "",
+            "details": "vorgeschriebene Einnahme, Notizen machen"
+          }
+        ],
+        "_completedOccurrences": [
+          [
+            "werxjw687z",
+            1
+          ],
+          [
+            "u8uja28gs3",
+            1
+          ]
+        ],
+        "outcomes": [
+          {
+            "createdAt": "2020-01-04T13:48:08.383Z",
+            "knowledge": {
+              "observation": 2,
+              "expectation": 4,
+              "comment": "kennt den Zweck oder die Nebenwirkungen der Medikamente nicht"
+            },
+            "behaviour": {
+              "observation": 3,
+              "expectation": 5,
+              "comment": "stimmt zu, dass sie ein Erinnerungssystem braucht"
+            },
+            "status": {
+              "observation": 2,
+              "expectation": 4,
+              "comment": "zwei kürzliche Krankenhausaufenthalte"
+            },
+            "personRatedInPlaceOfOwner": ""
+          }
+        ],
+        "_additionalRatingsKBS": [
+          [
+            3,
+            4,
+            2
+          ],
+          [
+            3,
+            3,
+            2
+          ],
+          [
+            3,
+            4,
+            3
+          ]
+        ],
+        "ratingReminder": {
+          "id": "jbwap9apgk",
+          "recurrenceRules": {
+            "rrules": [
+              {
+                "dtstart": "2020-01-04T07:00:00.000Z",
+                "interval": 4,
+                "freq": 2,
+                "tzid": "Europe/Berlin",
+                "wkst": 0
+              }
+            ],
+            "exrules": [],
+            "rdates": [],
+            "exdates": [
+              "2020-01-04T07:00:00.000Z"
+            ],
+            "tzid": "Europe/Berlin"
+          },
+          "occurrences": [],
+          "createdAt": "2020-01-04T13:43:55.858Z",
+          "completedAt": null
+        },
+        "createdAt": "2020-01-04T13:48:08.383Z",
+        "resolvedAt": null,
+        "tag": ""
+      }
+    ],
+    "createdAt": "2020-01-04T13:30:25.409Z",
+    "leftAt": null
+  }
+]
